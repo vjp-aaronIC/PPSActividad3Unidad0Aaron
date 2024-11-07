@@ -1,4 +1,4 @@
-# MANUAL BÁSICO DE GITHUB
+# MANUAL BÁSICO DE GIT
 
 1. Clonado del repositorio
 
